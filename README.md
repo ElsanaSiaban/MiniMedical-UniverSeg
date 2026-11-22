@@ -194,8 +194,6 @@ This repository contains source code and documentation only. It does not include
 
 
 ## Acknowledgements and references
-docs: acknowledge project collaborator
-Co-authored-by: Soheil Norouzi <([@soheil-norouzi](https://github.com/soheil-norouzi))>
 
 Credit for the original UniverSeg architecture and research belongs to Butoi et al. (ICCV 2023) and the [JJGO/UniverSeg](https://github.com/JJGO/UniverSeg) team. Please cite their paper when referencing the approach. This repository is an independent, reduced-scale research implementation, not an official release.
 
