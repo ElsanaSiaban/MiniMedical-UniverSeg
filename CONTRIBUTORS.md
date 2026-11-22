@@ -4,9 +4,9 @@ Dataset Doctor is built and maintained by the people listed here, in no particul
 
 ## Maintainer
 
-- Soheil Norouzi ([@soheil-norouzi](https://github.com/soheil-norouzi))
+- Elsana A. Siaban ([@ElsanaSiaban](https://github.com/ElsanaSiaban))
   
 ## Contributors
 
 <!-- Add one line below when you make your first contribution: -->
-<!-- - Elsana A. Siaban ([@ElsanaSiaban](https://github.com/ElsanaSiaban)) -->
+<!-- - Soheil Norouzi ([@soheil-norouzi](https://github.com/soheil-norouzi)) -->
