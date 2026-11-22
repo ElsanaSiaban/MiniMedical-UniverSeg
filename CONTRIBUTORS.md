@@ -8,5 +8,4 @@ Dataset Doctor is built and maintained by the people listed here, in no particul
   
 ## Contributors
 
-<!-- Add one line below when you make your first contribution: -->
-<!-- - Soheil Norouzi ([@soheil-norouzi](https://github.com/soheil-norouzi)) -->
+- Soheil Norouzi ([@soheil-norouzi](https://github.com/soheil-norouzi))
