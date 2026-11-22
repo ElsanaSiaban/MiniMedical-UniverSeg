@@ -192,13 +192,10 @@ python -m pytest -q
 
 This repository contains source code and documentation only. It does not include raw or processed medical images, masks, subject-level manifests, model checkpoints, or generated predictions. Dataset availability online does not automatically grant redistribution rights. Do not add patient/subject-level information, DICOM metadata, private source paths, or trained weights unless you have reviewed the applicable privacy, sharing, and licensing requirements.
 
-## License
-
-The original code in this repository is made available under the [PolyForm Noncommercial License 1.0.0](LICENSE), subject to the scope of rights held by the repository owner. Noncommercial research, educational use, modification, and redistribution are permitted as specified by that license; **general commercial use is not granted**. This is a **source-available**, not an OSI-approved open-source, license.
-
-See the [official license text](https://polyformproject.org/licenses/noncommercial/1.0.0) and [docs/LICENSING.md](docs/LICENSING.md). Third-party software, reference implementations and all medical datasets retain their own licenses; **no datasets or upstream pretrained weights are distributed here**. Replace the copyright-holder placeholder in [`NOTICE`](NOTICE) before publishing.
 
 ## Acknowledgements and references
+docs: acknowledge project collaborator
+Co-authored-by: Soheil Norouzi <([@soheil-norouzi](https://github.com/soheil-norouzi))>
 
 Credit for the original UniverSeg architecture and research belongs to Butoi et al. (ICCV 2023) and the [JJGO/UniverSeg](https://github.com/JJGO/UniverSeg) team. Please cite their paper when referencing the approach. This repository is an independent, reduced-scale research implementation, not an official release.
 
