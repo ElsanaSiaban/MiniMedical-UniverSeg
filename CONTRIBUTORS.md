@@ -1,6 +1,6 @@
 # Contributors
 
-Dataset Doctor is built and maintained by the people listed here, in no particular order.
+MiniMedical UniverSeg is built and maintained by the people listed here, in no particular order.
 
 ## Maintainer
 
